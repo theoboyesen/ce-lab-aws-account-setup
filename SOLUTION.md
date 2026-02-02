@@ -43,8 +43,8 @@
 ![Account Alias](screenshots/account-alias.png)
 
 ### Account Details:
-- **Account Alias:** [your-alias-here]
-- **Sign-In URL:** `https://[your-alias].signin.aws.amazon.com/console`
+- **Account Alias:** [theoboyesen-ironhack-bootcamp]
+- **Sign-In URL:** `https://theoboyesen-ironhack-bootcamp.signin.aws.amazon.com/console`
 - **Tested successfully:** [Yes / No]
 
 ---
@@ -73,43 +73,44 @@
 ### 1. Why is MFA important even for a personal learning account?
 
 **Your Answer:**
-[Write your answer here. Consider: What could happen if someone gained access to your account? What damage could they do? What costs could they incur?]
+MFA reduces the risk of people accessing your account by 99%. Even if someone accessed my personal learning account they can use services outside of the free allowance meaning I would be charged for this.
 
 ---
 
 ### 2. What would happen if you left your root user unprotected?
 
 **Your Answer:**
-[Write your answer here. Think about: What access does root user have? What could an attacker do? How would you recover?]
+Would have full access to my AWS account and could create instances and use other services outside of my free tier. They could also steal sensitive data. I could resolve this by resetting my login details and resetting my MFA details.
 
 ---
 
 ### 3. How do billing alerts help prevent unexpected charges?
 
 **Your Answer:**
-[Write your answer here. Consider: When do you get notified? What actions can you take? Why is proactive monitoring important?]
+Billing alerts help because you are notified when your charges are exceeding a certain amount delegated by the user. These alerts can be sent through multiple ways such as email. This allows you to make any changes to prevent further charges. This is important as being constantly ontop of billing will help to ensure there are no unexpected charges and also that you are being efficient.
 
 ---
 
 ### 4. What threshold did you set for your billing alert and why?
 
 **Your Answer:**
-[Write your answer here. Explain: Why did you choose this amount? Is it appropriate for your usage? Would you set multiple thresholds?]
+I set the amount to $10 as per instructions
 
 ---
 
 ### 5. What is your account alias and why did you choose it?
 
-**Your Answer:**
-- **Alias:** [your-alias]
-- **Reasoning:** [Why did you choose this name? What makes it memorable and professional?]
+It is my name as per instructions, also easy to remember
 
+**Your Answer:**
+- **Alias:** theoboyesen-ironhack-bootcamp
+- **Reasoning:** It is my name as per instructions, also easy to remember.
 ---
 
 ### 6. What services are you currently using according to the Free Tier dashboard?
 
 **Your Answer:**
-[List the services you're using and their current usage levels. Are you surprised by any usage?]
+N/A
 
 ---
 
